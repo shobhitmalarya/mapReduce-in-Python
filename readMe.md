@@ -30,5 +30,7 @@ With hadoop -
 
 * * * * *
 
+![](results.png)
+
 The final results are plotted in a graph "results.png" in this same
 directory
